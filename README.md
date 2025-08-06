@@ -19,10 +19,12 @@ This is a responsive product listing and detail view application built using **R
 - DummyJSON API (or custom API)
 
 # Login Access
-username:emmaj
-Password:emmajpass
+- username:emmaj
+  
+- Password:emmajpass
 
 ## 📸 Screenshots
-   
+![Uploading Screenshot 2025-08-06 175708.png…]()
+
 _Add screenshots here if available_
 
