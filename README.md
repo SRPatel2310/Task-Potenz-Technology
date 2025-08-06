@@ -25,6 +25,7 @@ This is a responsive product listing and detail view application built using **R
 
 ## 📸 Screenshots
 
+<img width="1881" height="876" alt="Screenshot 2025-08-06 175708" src="https://github.com/user-attachments/assets/73ed398a-d279-4a0d-b707-ed93fe0b382b" />
 
 _Add screenshots here if available_
 
