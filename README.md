@@ -1,12 +1,28 @@
-# React + Vite
+# 🛍️ Product Showcase App – Internship Task (Potenz Technology)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive product listing and detail view application built using **React** and **Tailwind CSS**, developed as part of an internship task for Potenz Technology.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧾 Product listing with pagination
+- 🔍 Individual product detail pages
+- 🔐 Authentication and protected routes (if included)
+- 🎨 Responsive UI using Tailwind CSS
+- 🧭 Navigation with React Router
+- ✅ Clean code structure and reusable components
 
-## Expanding the ESLint configuration
+## 📦 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- React Router
+- DummyJSON API (or custom API)
+
+# Login Access
+username:emmaj
+Password:emmajpass
+
+## 📸 Screenshots
+   
+_Add screenshots here if available_
+
