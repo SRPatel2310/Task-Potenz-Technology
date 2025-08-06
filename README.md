@@ -24,7 +24,7 @@ This is a responsive product listing and detail view application built using **R
 - Password:emmajpass
 
 ## 📸 Screenshots
-![Uploading Screenshot 2025-08-06 175708.png…]()
+
 
 _Add screenshots here if available_
 
